@@ -1,4 +1,3 @@
-import EmailIcon from "@mui/icons-material/Email";
 import AlternateEmailIcon from "@mui/icons-material/AlternateEmail";
 import PersonIcon from "@mui/icons-material/Person";
 
