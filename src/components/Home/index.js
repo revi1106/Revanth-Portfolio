@@ -1,8 +1,7 @@
 import { motion } from "framer-motion";
 import Typewriter from "typewriter-effect";
 import {
-  FaGithub,
-  FaLinkedin,
+  
   FaArrowDown,
 } from "react-icons/fa";
 
