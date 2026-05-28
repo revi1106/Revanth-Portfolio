@@ -96,7 +96,7 @@ export default function Resume() {
 
     return () => clearInterval(interval);
 
-  }, []);
+  }, [projects.length]);
 
   return (
 
