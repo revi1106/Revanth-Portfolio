@@ -130,7 +130,7 @@ export default function Contact() {
                 </a>
                 
                 <a
-                  href="https://github.com/InvisibleTroll54219"
+                  href="https://github.com/revi1106"
                   target="_blank"
                   rel="noreferrer"
                   className="contact-option"
@@ -140,7 +140,7 @@ export default function Contact() {
                 </a>
 
                 <a
-                  href="https://www.instagram.com/invisibletroll.54219/"
+                  href="https://www.instagram.com"
                   target="_blank"
                   rel="noreferrer"
                   className="contact-option"
