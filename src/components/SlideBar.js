@@ -112,7 +112,7 @@ export default function Sidebar() {
         </a>
 
         <a
-          href="www.linkedin.com/in/palaparthi-revanth-0b05612a4"
+          href="https://www.linkedin.com/in/palaparthi-revanth-0b05612a4"
           target="_blank"
           rel="noreferrer"
         >
