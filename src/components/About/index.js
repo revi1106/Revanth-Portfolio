@@ -40,7 +40,7 @@ export default function About() {
 
             <p className="about-para">
 
-              My name is Revanth Palaparthi, and I am currently pursuing a B.Tech in Computer Science and Engineering at IIT Dharwad. I am a passionate software developer and AI enthusiast with a strong interest in Generative AI, Machine Learning, Full Stack Development, and intelligent software systems. I enjoy building innovative applications using technologies like Python, React, LangChain, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and modern web frameworks. Over time, I have worked on projects involving AI-powered applications, resume analysis systems, chatbot solutions, and web development projects that strengthened my problem-solving and development skills.
+              My name is Revanth, and I am currently pursuing a B.Tech in Computer Science and Engineering at IIT Dharwad. I am a passionate software developer and AI enthusiast with a strong interest in Generative AI, Machine Learning, Full Stack Development, and intelligent software systems. I enjoy building innovative applications using technologies like Python, React, LangChain, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and modern web frameworks. Over time, I have worked on projects involving AI-powered applications, resume analysis systems, chatbot solutions, and web development projects that strengthened my problem-solving and development skills.
 
             </p>
 
