@@ -90,7 +90,7 @@ export default function About() {
             <button className="download-btn">
 
               <a
-                href={require("../../assets/files/RevanthPalaparthi_resume.pdf")}
+                href="/RevanthPalaparthi_resume.pdf"
                 target="_blank"
                 rel="noreferrer"
               >
