@@ -1144,55 +1144,27 @@
    BUTTON
 ========================================= */
 
-.download-btn{
+.download-btn {
+  margin-top: 12px;
+  border: none;
+  border-radius: 18px;
+  background: linear-gradient(135deg, #ff7300, #ff0066);
+  padding: 14px 28px;
+  cursor: pointer;
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
 
-  margin-top:12px;
-
-  border:none;
-
-  border-radius:18px;
-
-  background:
-    linear-gradient(
-      135deg,
-      #ff7300,
-      #ff0066
-    );
-
-  padding:14px 28px;
-
-  cursor:pointer;
-
-  transition:
-    transform 0.35s ease,
-    box-shadow 0.35s ease;
+  text-decoration: none;
+  color: white;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 700;
+  font-size: 1rem;
 }
 
-.download-btn:hover{
-
-  transform:
-    translateY(-5px)
-    scale(1.03);
-
-  box-shadow:
-    0 14px 35px rgba(255,115,0,0.3);
-}
-
-.download-btn a{
-
-  text-decoration:none;
-
-  color:white;
-
-  display:flex;
-
-  align-items:center;
-
-  gap:10px;
-
-  font-weight:700;
-
-  font-size:1rem;
+.download-btn:hover {
+  transform: translateY(-5px) scale(1.03);
+  box-shadow: 0 14px 35px rgba(255, 115, 0, 0.3);
 }
 
 /* =========================================================
