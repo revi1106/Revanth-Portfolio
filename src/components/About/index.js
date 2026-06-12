@@ -85,23 +85,16 @@ export default function About() {
               />
 
             </div>
-
-
-            <button className="download-btn">
-
-              <a
-                href="/RevanthPalaparthi_resume.pdf"
-                target="_blank"
-                rel="noreferrer"
-              >
-
-                View Resume
-
-                <DownloadIcon />
-
-              </a>
-
-            </button>
+              
+            <a
+              className="download-btn"
+              href="/RevanthPalaparthi_resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              View Resume
+              <DownloadIcon />
+            </a>
 
           </div>
 
